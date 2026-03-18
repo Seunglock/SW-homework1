@@ -1,2 +1,1 @@
-https://github.com/Seunglock/SW-homework1
-
+print('hello world')
