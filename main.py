@@ -1,1 +1,2 @@
-https://github.com/Seunglock/SW-homeworki
+https://github.com/Seunglock/SW-homework1
+
